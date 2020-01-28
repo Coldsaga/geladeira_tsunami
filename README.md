@@ -1,5 +1,4 @@
 # *El Grande Refrigerador*
- Well, this exists.  
  
  A SVG of a [brazilian meme](https://www.youtube.com/watch?v=UVph8lkwl1E).
  
